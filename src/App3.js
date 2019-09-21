@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-/* //
+/* // 
     class A
     {
         public A(String name, int age, String addr) {
